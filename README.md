@@ -1,12 +1,11 @@
 # War Card Game 
-<p align="center">
-<img src="https://github.com/shashank195/War-Card-Game/blob/main/Interface.png" width="275" height="500">
-</p>
-
 
 ## Introduction
 > A simple SwiftUI Card Game Interface.
-
+> 
+<p align="center">
+<img src="https://github.com/shashank195/War-Card-Game/blob/main/Interface.png" width="275" height="500">
+</p>
 
 ## Things To Have
 **[Xcode](https://developer.apple.com/xcode/)**
