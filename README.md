@@ -1,6 +1,6 @@
 # War Card Game 
 
-![](Interface.png)
+![](Interface.png){ width: 200px; }
 
 ## Introduction
 > A simple SwiftUI Card Game Interface.
