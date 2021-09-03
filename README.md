@@ -1,6 +1,5 @@
 # War Card Game 
-
-![](Interface.png = 100x20)
+![](drawing.jpg | width=100)
 
 ## Introduction
 > A simple SwiftUI Card Game Interface.
