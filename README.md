@@ -24,7 +24,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 2. Navigate to the unzipped folder and run pod install.
 
-3. Open `MSIT - Notifier.xcworkspace` from the folder.
+3. Open `project.xcworkspace` from the folder.
 
 4. Build the project (⌘+B) and check for any errors.
 
