@@ -1,5 +1,5 @@
 # War Card Game 
-<img src="https://github.com/shashank195/War-Card-Game/blob/main/Interface.png" width="2000" height="2000">
+<img src="https://github.com/shashank195/War-Card-Game/blob/main/Interface.png" width="500" height="1000">
 
 
 ## Introduction
