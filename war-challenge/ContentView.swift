@@ -24,8 +24,12 @@ struct ContentView: View {
                 Spacer()
             }
                 Spacer()
-            Image("dealbutton")
-                .padding(.all)
+               Button(action: {
+                    print("Button pressed")
+                }, label: {
+                    Image("dealbutton")
+                        .padding(.all)
+                })
                 Spacer()
             HStack(){
                 VStack{
