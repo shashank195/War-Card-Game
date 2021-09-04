@@ -1,4 +1,4 @@
-//
+
 //  ContentView.swift
 //  war-challenge
 //
@@ -37,6 +37,17 @@ struct ContentView: View {
                     //Generate a random number between 2 and 14
                     let playerRand=Int.random(in: 2...14)
                     let cpuRand=Int.random(in: 2...14)
+                    
+                    if(playerRand>cpuRand){
+                        playerScore=playerScore+1
+                    }
+                    else if (cpuRand>playerRand){
+                        cpuScore = cpuScore + 1
+                    }
+                    else{
+                        print("Tie")
+                    }
+                    
                     //Update the card
                     playerCard="card" + String(playerRand)
                     cpuCard="card" + String(cpuRand)
